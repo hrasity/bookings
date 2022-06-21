@@ -9,7 +9,6 @@ import (
 	"path/filepath"
 
 	"github.com/hrasity/bookings/pkg/config"
-
 	"github.com/hrasity/bookings/pkg/models"
 )
 
